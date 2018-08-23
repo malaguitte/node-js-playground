@@ -21,11 +21,7 @@ http.createServer(function(request, response) {
   } else {
     response.writeHead(404);
     response.end();
-  }
-
-  
-
-  
+  }  
 
 //the port and the server address that the server will listen to.
 }).listen(1337, '127.0.0.1');
