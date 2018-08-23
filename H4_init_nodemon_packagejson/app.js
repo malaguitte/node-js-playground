@@ -1,3 +1,6 @@
+
+//Please run "npm install" to download the moment module first.
+
 //using the module moment from node_modules
 var moment = require('moment');
 
