@@ -1,0 +1,12 @@
+Protractor results for: 8/30/2018, 12:37:18 AM
+
+AppDir:./
+  Suite: QuickStart E2E Tests -- failed
+    failed - should display: Hello Angular
+      message: Failed: unknown error: call function result missing 'value'
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.26.436421 (6c1a3ab469ad86fd49c8d97ede4a6b96a49ca5f6),platform=Mac OS X 10.13.6 x86_64)
+      message: Failed: unknown error: call function result missing 'value'
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.26.436421 (6c1a3ab469ad86fd49c8d97ede4a6b96a49ca5f6),platform=Mac OS X 10.13.6 x86_64)
+
